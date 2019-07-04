@@ -1,0 +1,45 @@
+# Site settings
+title: 连雨
+email: qqbuby@gmail.com
+description: 连雨不知春去，一晴方觉夏深。
+baseurl: ""
+url: "https://codefarm.me"
+twitter_username: qqbuby
+github_username: qqbuby
+timezone: Asia/Shanghai
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Pagination
+paginate: 10 
+
+excerpt_separator: ""
+
+# Build Command Options
+# incremental: true
+livereload: true
+
+# Serve Command Options
+host: 0.0.0.0
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
+
+# Collections
+collections:
+  kindle:
+    output: true
+  journalctl:
+    output: true
+  wx:
+    output: true
