@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Love In The Time Of Cholera"
+title: "霍乱时期的爱情"
 date: 2018-03-28 22:09:27 +0800
-categories: ['Novel']
-tags: ['Novel']
 excerpt: '霍乱时期的爱情'
+author: 加西亚・马尔克斯
 description: '安息吧，上帝在门口等着你。' 
-disqus_identifier: 114186390936856334271693249050611932085
 ---
-
-<audio controls="">
-  <source src="/assets/love-in-the-time-of-cholera/audio/love-antonio-pinto.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
 
 \- 《霍乱时期的爱情》 加西亚・马尔克斯
 
@@ -153,8 +146,3 @@ P274
 P383
 
 - - -
-
-<audio controls="" loop=""> 
-  <source src="/assets/love-in-the-time-of-cholera/audio/my-new-life-antonio-pinto.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>

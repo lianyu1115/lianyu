@@ -33,7 +33,7 @@ livereload: true
 host: 0.0.0.0
 
 # Permalinks
-permalink: /:year/:month/:day/:title/
+permalink: /:collection/:title
 
 # Collections
 collections:
@@ -41,5 +41,5 @@ collections:
     output: true
   journalctl:
     output: true
-  wx:
+  read:
     output: true

@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Farewell Letter From Gabriel Garcia Marquez
+title: Farewell Letter from Gabriel Garcia Marquez
 date: 2019-01-12 13:02:01 +0800
-categories: 
-tags: 
 author: Gabriel Garcia Marquez
-disqus_identifier: 132647161845483091245050234459833501388
 ---
 
 Gabriel Garcia Marquez, famous writer from Colombia, and Nobel Peace Prize winner for literature, has retired from public life for reasons of health. He has a form of cancer which is terminal. He has sent a farewell letter to his friends and it has been circulated around the Internet. 

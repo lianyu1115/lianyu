@@ -1,9 +1,5 @@
-User-agent: Baiduspider
+User-agent: *
 Disallow: /
 
 User-agent: baiduspider
 Disallow: /
-
-User-agent: *
-Disallow: /kindle
-Disallow: /journalctl

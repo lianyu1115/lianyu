@@ -1,10 +1,8 @@
 ---
 layout: post
-title: The Godfather
+title: 教父
+author: 马里奥.普佐
 date: 2018-04-08 22:27:55 +0800
-categories: ['Novel']
-tags: ['Novel']
-disqus_identifier: 134607823742790285291657071477882421746
 ---
 
 \- 《教父》马里奥.普佐

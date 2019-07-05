@@ -1,9 +1,7 @@
 ---
 layout: post
-title: White Deer Plain
+title: 白鹿原
 date: 2018-06-03 15:22:31 +0800
-categories: ['Novel']
-tags: ['Novel']
 author: '陈忠实'
 disqus_identifier: 222078956577858526052688518871577098160
 ---
