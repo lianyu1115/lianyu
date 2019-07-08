@@ -36,7 +36,7 @@ OptionParser.new do |opts|
 end.parse!
 
 raise "require the title of the post, '--title'" unless options[:title]
-raise "require the title of the post, '--category'" unless options[:category]
+#raise "require the title of the post, '--category'" unless options[:category]
 
 title = options[:title]
 categories = options[:category]
