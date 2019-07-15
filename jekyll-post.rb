@@ -53,11 +53,11 @@ end
 date = DateTime.now
 disqus_identifier = SecureRandom::uuid.gsub('-','').hex
 
-filename = filename.gsub(':', '-').gsub(' ', '-').gsub(/\(|\)|\./, '').downcase
+filename = filename.gsub('，', '-').gsub(':', '-').gsub(' ', '-').gsub(/\(|\)|\./, '').downcase
 filename = date.strftime('%Y-%m-%d') + '-' + filename + ".md"
 date = date.strftime('%Y-%m-%d %H:%M:%S %z')
 
-front_matter = "---\nlayout: post\ntitle: #{title}\ndate: #{date}\ncategories: #{categories}\ntags: #{tags}\n---"
+front_matter = "---\nlayout: post\ntitle: '#{title}'\ndate: '#{date}'\ncategories: '#{categories}'\ntags: '#{tags}'\n---"
 
 File.open(filename, 'w') { |f| f.write(front_matter) }
 
