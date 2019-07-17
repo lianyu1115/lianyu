@@ -247,12 +247,12 @@
 }
 
 .post-title {
-    font-size: 36px;
+    font-size: 1.75em;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 1.75em;
     }
 }
 
@@ -260,26 +260,26 @@
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 1.65em;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 1.65em;
         }
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 1.45em;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 1.45em;
         }
     }
 
     h4 {
-        font-size: 20px;
+        font-size: 1.25em;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 1.25em;
         }
     }
 
@@ -293,7 +293,7 @@
 
     strong {
         font-weight: 500;
-        font-size: 1.1em;
+        font-size: 1.05em;
     }
 
     em {
