@@ -2,7 +2,10 @@
 layout: archive
 title: null
 ---
-{% for post in site.journalctl %}
+
+{% assign sorted_posts = (site.journal | sort: 'date') | reverse %}
+
+{% for post in sorted_posts %}
     {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
     {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
     {% if month != nmonth %}
