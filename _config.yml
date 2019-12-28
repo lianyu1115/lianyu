@@ -39,7 +39,7 @@ permalink: /:collection/:title
 collections:
   kindle:
     output: true
-  journalctl:
+  journal:
     output: true
   read:
     output: true
