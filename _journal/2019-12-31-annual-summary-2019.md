@@ -111,11 +111,6 @@ tags: ['Memo']
 
 - - -
 
-<script>
-  var bgm = '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=481890&auto=0&height=32"></iframe>';
-  document.write(bgm);
-</script>
-
 虽然，现在已经是2020年01月02日，但是，在我的记忆与感知中，真正意义上的的过年，还是中国人的自己的除夕与春节。我的感觉是2019年只有过了炮竹声响，烟花绽放的除夕之夜才能算真正的翻篇。不过，这些都暂时没有什么了，继续给2019年做一个总结吧。
 
 - 关于“读书”，如上，基本上是还算可以吧。
