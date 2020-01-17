@@ -26,6 +26,12 @@ tags: ['Memo']
 // ― William Shakespeare, The Tempest
 ```
 
+<script>
+  var bgm = '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1078365&auto=1&height=32"></iframe>';
+  document.write(bgm);
+</script>
+
+
 - - -
 
 昨天，也就是12月30日，星期一，和工地的饭友吃完午饭后，像往常一样去往静安公园散步，听说明天会大幅度降温。早上起来，穿好上装后，下意识地看了看手表上的天气信息，果不其然，表盘上显示室外温度为1度。于是，老老实实地从衣柜中取出沉睡的秋裤。拉开窗帘，打开窗户，室外尚未完全褪去夜色的天空，依然是昏暗朦胧。吃完早饭，洗刷完毕，出门，下楼。外面凌冽的寒风肆意地迎面吹拂，背着破旧的黑色迪卡侬双肩小背包，不急不徐，一步步地向着地铁站走去，开始新一天的搬砖生活。
@@ -141,13 +147,6 @@ tags: ['Memo']
 
 - - -
 
-<script>
-  var bgm = '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=570017&auto=0&height=32"></iframe>';
-
-  document.write(bgm);
-</script>
-
-
 给2020年的我：
 
 - 读书
@@ -170,6 +169,11 @@ tags: ['Memo']
   完成一场马拉松比赛，期望首次马拉松成绩能够跑进350，或者保守些，跑进430吧。
 
   补充一下：2020年徐州马拉松赛事已中签，并将于2020年03月22日上午08点开跑。之所以选择徐州马拉松，主要由三个原因，其一是徐州属于江浙沪包邮区，其二是在苏北的赛事的中签率应该高于同时期江南地区（如无锡马拉松），其三是徐州有强大的亲友团，对于初次跑42K，对意外情况可以提供非常好的支援。——2020年01月15日下午
+
+  <script>
+    var bgm = '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=570017&auto=0&height=32"></iframe>';
+    document.write(bgm);
+  </script>
 
 - 对枯燥的事情有所坚持
 
