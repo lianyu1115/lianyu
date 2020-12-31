@@ -277,6 +277,60 @@ tags: ''
 
 <p style="text-align:right; color: grey"><small>2020年12月31日13时41分59秒.</small></p>
 
+- - -
+
+时间是2020年12月31日15时45分。
+
+> <small>"Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present." ― Bill Keane</small>
+
+难得平静的下午，想了想还是回来再唠叨一下。迷茫、犹豫是人生的常态。听多了流行音乐，讨厌爵士音乐，最近在尝试听古典音乐。以前只感觉古典乐特别的吵闹，比如贝多芬的命运交响曲的第一乐章。现在已经能够听的下古典音乐了，不过依然感觉有点吵，不过却是越听越有味道。
+
+> <small>Beethoven: Symphony No. 5 In C Minor, Op. 67: II. Andante con moto</small>
+
+计划的书单：
+
+> <small>理查德·道金斯: 自私的基因
+>
+> <small>莱斯利·史蒂文森: 人性七论
+>
+> <small>伊塔洛·卡尔维诺: 看不见的城市 | 马可瓦尔多 | 分成两半的子爵 | 树上的男爵 | 不存在的骑士 
+>
+> <small>王小波：黑铁时代 | 白银时代 | 黄金时代
+>
+> <small>维克多·雨果: 悲惨世界
+>
+> <small>詹姆斯·乔伊斯: 尤利西斯
+>
+> <small>弗朗茨·卡夫卡: 变形记
+>
+> <small>威廉·萨默塞特·毛姆: 刀锋
+>
+> <small>奥尔德斯·赫胥黎: 美丽新世界
+>
+> <small>阿尔贝·加缪: 局外人 | 鼠疫
+>
+> <small>柏拉图: 理想国
+>
+> <small>圣奥古斯丁: 忏悔录
+>
+> <small>维多利亚·希斯洛普: 岛
+>
+> <small>玛格丽特·米切尔: 乱世佳人（飘） 
+>
+> <small>老舍: 骆驼祥子
+>
+> <small>陀思妥耶夫斯基:  地下室手记 | 罪与罚 | 涅朵奇卡·涅茨瓦诺娃
+>
+> <small>罗曼·罗兰: 约翰·克利斯朵夫
+>
+> <small>贾雷德·戴蒙德: 枪炮、病菌与钢铁 
+>
+> <small>哈珀·李: 杀死一只知更鸟
+>
+> <small>马塞尔·普鲁斯特: 追忆似水年华
+
+ <p style="text-align:right; color: grey"><small>2020年12月31日17时18分59秒.</small></p>
+
 - - - 
 
 - 读书
