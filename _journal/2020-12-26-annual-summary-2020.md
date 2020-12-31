@@ -281,7 +281,7 @@ tags: ''
 
 时间是2020年12月31日15时45分。
 
-> <small>"Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present." ― Bill Keane</small>
+> Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present. ― Bill Keane
 
 难得平静的下午，想了想还是回来再唠叨一下。迷茫、犹豫是人生的常态。听多了流行音乐，讨厌爵士音乐，最近在尝试听古典音乐。以前只感觉古典乐特别的吵闹，比如贝多芬的命运交响曲的第一乐章。现在已经能够听的下古典音乐了，不过依然感觉有点吵，不过却是越听越有味道。
 
