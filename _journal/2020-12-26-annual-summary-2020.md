@@ -205,7 +205,7 @@ tags: ''
 
 12月6号，完成人生的第一次马拉松，用时3小时39分22秒。下午返程的时候，发现火车票皆已售罄。我大意了啊，没有闪。不过，我还是找到了一趟下午15点50分，从千岛湖路过桐庐的高铁。这是命运对我的再一次嘲弄。这好吗，这不好。
 
-Beethoven: Symphony No. 5 In C Minor, Op. 67: II. Andante con moto
+> <small>Beethoven: Symphony No. 5 In C Minor, Op. 67: II. Andante con moto</small>
 
 12月21号，冬至。最暖的冬至。
 
