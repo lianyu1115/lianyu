@@ -2,7 +2,7 @@
 layout: archive
 title: null
 ---
-{% assign sorted_posts = (site.kindle | sort: 'date') | reverse %}
+{% assign sorted_posts = (site.paper-book | sort: 'date') | reverse %}
 
 {% for post in sorted_posts %}
     {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}

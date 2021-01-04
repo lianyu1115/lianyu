@@ -37,9 +37,9 @@ permalink: /:collection/:title/
 
 # Collections
 collections:
-  kindle:
+  ebook:
     output: true
   journal:
     output: true
-  read:
+  paper-book:
     output: true
