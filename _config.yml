@@ -3,7 +3,7 @@ title: 连雨
 email: qqbuby@gmail.com
 description: 连雨不知春去，一晴方觉夏深。
 baseurl: ""
-url: "https://codefarm.me"
+url: "https://lianyu.codefarm.me"
 twitter_username: qqbuby
 github_username: qqbuby
 timezone: Asia/Shanghai
@@ -33,13 +33,19 @@ livereload: true
 host: 0.0.0.0
 
 # Permalinks
-permalink: /:collection/:title/
+permalink: /:year/:month/:day/:title/
 
 # Collections
 collections:
-  ebook:
+  essays:
     output: true
-  journal:
+    permalink: /:collection/:year/:month/:day/:title/
+  ebooks:
     output: true
-  paper-book:
+    permalink: /:collection/:year/:month/:day/:title/
+  journals:
     output: true
+    permalink: /:collection/:year/:month/:day/:title/
+  paper-books:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title/
