@@ -3,7 +3,7 @@ layout: archive
 title: null
 ---
 
-{% assign sorted_posts = (site.journals | sort: 'date') | reverse %}
+{% assign sorted_posts = site.journals | sort: 'date' | reverse %}
 
 {% for post in sorted_posts %}
     {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
