@@ -16,6 +16,9 @@
         <div class="trigger">
             <ul>
               <li><a href="{{ site.baseurl }}/">随笔</a></li>
+{% if jekyll.environment == "development" %}
+              <li><a href="{{ site.baseurl }}/journals ">日志</a></li>
+{% endif %}
               <li><a href="{{ site.baseurl }}/book-reports">读后感</a></li>
               <li><a href="{{ site.baseurl }}/paper-books">纸质书</a></li>
               <li><a href="{{ site.baseurl }}/ebooks">电子书</a></li>
