@@ -36,7 +36,7 @@ tags: ''
 
 - - -
 
-[给2020年的我](/journal/2019-12-31-annual-summary-2019/)：
+[给2020年的我](/journals/2019/12/31/annual-summary-2019/)：
 
 - 读书
 

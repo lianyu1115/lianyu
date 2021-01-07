@@ -8,7 +8,7 @@ tags: ['Memo']
 
 - - -
 
-[给 2019 年的我](/journal/2018-12-31-annual-summary-2018/)：
+[给 2019 年的我](/journals/2018/12/31/annual-summary-2018/)：
 
 - 读书
 - 健身
