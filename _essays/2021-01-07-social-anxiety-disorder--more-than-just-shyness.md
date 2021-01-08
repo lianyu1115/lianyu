@@ -201,6 +201,8 @@ The Substance Abuse and Mental Health Services Administration (SAMHSA) provides 
 
 #### Reprints
 
+#### 复印
+
 This publication is in the public domain and may be reproduced or copied without permission from NIMH. Citation of NIMH as a source is appreciated. We encourage you to reproduce it and use it in your efforts to improve public health. However, using government materials inappropriately can raise legal or ethical concerns, so we ask you to use these guidelines:
 
 - NIMH does not endorse or recommend any commercial products, processes, or services, and our publications may not be used for advertising or endorsement purposes.
