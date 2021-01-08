@@ -21,7 +21,7 @@ Are you extremely afraid of being judged by others?
 
 Are you very self-conscious in everyday social situations?
 
-你是否在日常的社交环境有很强的自我意识或者自我关注？
+你是否在日常的社交环境中过于自我关注？
 
 Do you avoid meeting new people?
 
