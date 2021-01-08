@@ -21,11 +21,11 @@ Are you extremely afraid of being judged by others?
 
 Are you very self-conscious in everyday social situations?
 
-你是否在日常的社交环境特别自我关注？
+你是否在日常的社交环境有很强的自我意识或者自我关注？
 
 Do you avoid meeting new people?
 
-你避免认识陌生人吗？
+你逃避认识陌生人吗？
 
 If you have been feeling this way for at least six months and these feelings make it hard for you to do everyday tasks—such as talking to people at work or school—you may have a social anxiety disorder.
 
