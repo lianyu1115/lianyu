@@ -33,7 +33,7 @@ If you have been feeling this way for at least six months and these feelings mak
 
 Social anxiety disorder (also called social phobia) is a mental health condition. It is an intense, persistent fear of being watched and judged by others. This fear can affect work, school, and your other day-to-day activities. It can even make it hard to make and keep friends. But social anxiety disorder doesn’t have to stop you from reaching your potential. Treatment can help you overcome your symptoms.
 
-社交焦虑症（也称社交恐惧）是一种精神健康状况，是一种强烈的，长久的害怕被他人关注和品评的恐惧，这种恐惧感会影响到工作、上学以及其他的日常活动，甚至很难结交朋友并保持友谊。但是社会焦虑症并不一定会阻止你发挥自己的潜能。通过治疗可以帮助你应对并克服这些症状。
+社交焦虑症（也称社交恐惧）是一种精神健康状况，是一种强烈的，长久的害怕被他人关注和品评的恐惧，这种恐惧感会影响到工作、上学以及其他的日常活动，甚至很难结交朋友并保持友谊。但是社交焦虑症并不一定会阻止你发挥自己的潜能。通过治疗可以帮助你应对并克服这些症状。
 
 #### What is it like having social anxiety disorder?
 
