@@ -13,7 +13,7 @@ tags: ''
 
 #### Introduction
 
-#### 引言:
+#### 引言
 
 Are you extremely afraid of being judged by others?
 
