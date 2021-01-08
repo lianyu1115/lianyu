@@ -17,7 +17,7 @@ tags: ''
 
 Are you extremely afraid of being judged by others?
 
-你是否极度害怕被别人批判？
+你是否极度害怕被别人品评？
 
 Are you very self-conscious in everyday social situations?
 
@@ -33,7 +33,7 @@ If you have been feeling this way for at least six months and these feelings mak
 
 Social anxiety disorder (also called social phobia) is a mental health condition. It is an intense, persistent fear of being watched and judged by others. This fear can affect work, school, and your other day-to-day activities. It can even make it hard to make and keep friends. But social anxiety disorder doesn’t have to stop you from reaching your potential. Treatment can help you overcome your symptoms.
 
-社交焦虑症（也称社交恐惧）是一种精神健康状况，是一种强烈的，长久的害怕被他人关注和批判的恐惧，这种恐惧感会影响到工作、上学以及其他的日常活动，甚至很难结交朋友并保持友谊。但是社会焦虑症并不一定会阻止你发挥自己的潜能。通过治疗可以帮助你应对并克服这些症状。
+社交焦虑症（也称社交恐惧）是一种精神健康状况，是一种强烈的，长久的害怕被他人关注和品评的恐惧，这种恐惧感会影响到工作、上学以及其他的日常活动，甚至很难结交朋友并保持友谊。但是社会焦虑症并不一定会阻止你发挥自己的潜能。通过治疗可以帮助你应对并克服这些症状。
 
 #### What is it like having social anxiety disorder?
 
@@ -53,7 +53,7 @@ Social anxiety disorder (also called social phobia) is a mental health condition
 
 Social anxiety disorder is a common type of anxiety disorder. A person with social anxiety disorder feels symptoms of anxiety or fear in certain or all social situations, such as meeting new people, dating, being on a job interview, answering a question in class, or having to talk to a cashier in a store. Doing everyday things in front of people—such as eating or drinking in front of others or using a public restroom—also causes anxiety or fear. The person is afraid that he or she will be humiliated, judged, and rejected.
 
-社交焦虑症是焦虑症的一种常见类型。有社交焦虑症的人在某些或者所有的社交环境中都会感到焦虑或恐惧，例如结识新朋友，约会，工作面试，在课堂上回答问题，或者与商店的收银员谈话。在人们面前做日常的事情，例如在他人面前吃喝或者使用公共卫生间，也会引起焦虑或恐惧。社交焦虑症患者害怕自己被羞辱，被批判和被拒绝。
+社交焦虑症是焦虑症的一种常见类型。有社交焦虑症的人在某些或者所有的社交环境中都会感到焦虑或恐惧，例如结识新朋友，约会，工作面试，在课堂上回答问题，或者与商店的收银员谈话。在人们面前做日常的事情，例如在他人面前吃喝或者使用公共卫生间，也会引起焦虑或恐惧。社交焦虑症患者害怕自己被羞辱，被品评和被拒绝。
 
 The fear that people with social anxiety disorder have in social situations is so strong that they feel it is beyond their ability to control. As a result, it gets in the way of going to work, attending school, or doing everyday things. People with social anxiety disorder may worry about these and other things for weeks before they happen. Sometimes, they end up staying away from places or events where they think they might have to do something that will embarrass them.
 
@@ -85,13 +85,13 @@ When having to perform in front of or be around others, people with social anxie
 - 表现出僵硬的身体姿势，几乎没有眼神交流，说话声过度轻柔
 
 - Find it scary and difficult to be with other people, especially those they don’t already know, and have a hard time talking to them even though they wish they could
-- 与其他人，尤其时他们不认识的人交谈，会感到恐惧和困难，即使是那些他们特别希望与之交谈的人
+- 与其他人，尤其时他们不熟悉的人交谈，会感到恐惧和困难，即使是那些他们特别希望与之交谈的人
 
 - Be very self-conscious in front of other people and feel embarrassed and awkward
 - 在他人面前有很强的自我意识或者过度自我关注，会感到非常局促和不安
 
 - Be very afraid that other people will judge them
-- 非常害怕别人的批判
+- 非常害怕别人的品评
 
 - Stay away from places where there are other people
 - 离群索居
@@ -102,7 +102,7 @@ When having to perform in front of or be around others, people with social anxie
 
 Social anxiety disorder sometimes runs in families, but no one knows for sure why some family members have it while others don’t. Researchers have found that several parts of the brain are involved in fear and anxiety. Some researchers think that misreading of others’ behavior may play a role in causing or worsening social anxiety. For example, you may think that people are staring or frowning at you when they truly are not. Underdeveloped social skills are another possible contributor to social anxiety. For example, if you have underdeveloped social skills, you may feel discouraged after talking with people and may worry about doing it in the future. By learning more about fear and anxiety in the brain, scientists may be able to create better treatments. Researchers are also looking for ways in which stress and environmental factors may play a role.
 
-社交焦虑症有时会出现家族聚集现象，但没人知道为什么有些家庭成员却没有社交焦虑症。研究人员发现，大脑中有几个部分都与恐惧和焦虑有关。一些研究人员认为，对他人行为的误解可能会导致社交焦虑甚或者加剧社交焦虑。例如，你可能认为有人在盯着你或者对你皱眉，尽管真实的情况并非如此。**缺乏社交技能也是另外一种导致社交焦虑的原因之一。**例如，如果你没有什么社交技能，在与人交谈后，你可能会感到沮丧，并担心你的这种行为的未来表现。通过对大脑中焦虑和恐惧的更多的了解，科学家也许可以发现更好的治疗方法。**研究人员发现，压力和环境因素也可能是导致焦虑的原因。**
+社交焦虑症有时会出现家族聚集现象，但没人知道为什么有些家庭成员却没有社交焦虑症。研究人员发现，大脑中有些部分都与恐惧和焦虑有关。一些研究人员认为，对他人行为的误解可能会导致社交焦虑甚或者加剧社交焦虑。例如，你可能认为有人在盯着你或者对你皱眉，尽管真实的情况并非如此。**缺乏社交技能也是另外一种导致社交焦虑的原因之一。**例如，如果你没有什么社交技能，在与人交谈后，你可能会感到沮丧，并担心你的这种行为的未来表现。通过对大脑中焦虑和恐惧的更多的了解，科学家也许可以发现更好的治疗方法。**研究人员发现，压力和环境因素也可能是导致焦虑的原因。**
 
 #### How is social anxiety disorder treated?
 
@@ -122,7 +122,7 @@ Social anxiety disorder is generally treated with psychotherapy (sometimes calle
 
 A type of psychotherapy called cognitive behavioral therapy (CBT) is especially useful for treating social anxiety disorder. CBT teaches you different ways of thinking, behaving, and reacting to situations that help you feel less anxious and fearful. It can also help you learn and practice social skills. CBT delivered in a group format can be especially helpful. For more information on psychotherapy, please visit [www.nimh.nih.gov/health/topics/psychotherapies](http://www.nimh.nih.gov/health/topics/psychotherapies).
 
-一种称为认知行为疗法（CBT）的心理疗法对治疗社交焦虑症特别有用。CBT 可以教给你不同的思考方式，行为方式和反映方式应对社交环境，以帮你减少焦虑和恐惧，同时也可以帮你练习和实践社交技能。以小组的形式进行 CBT 治疗尤其有用。有关心理治疗的更多信息，请访问 [www.nimh.nih.gov/health/topics/psychotherapies](http://www.nimh.nih.gov/health/topics/psychotherapies)
+一种称为认知行为疗法（CBT）的心理疗法对治疗社交焦虑症特别有用。CBT 可以教给你以不同的思考方式，行为方式和反映方式应对社交环境，以帮你减少焦虑和恐惧，同时也可以帮你练习和实践社交技能。以小组的形式进行 CBT 治疗尤其有用。有关心理治疗的更多信息，请访问 [www.nimh.nih.gov/health/topics/psychotherapies](http://www.nimh.nih.gov/health/topics/psychotherapies)
 
 **Support Groups**
 
@@ -130,7 +130,7 @@ A type of psychotherapy called cognitive behavioral therapy (CBT) is especially 
 
 Many people with social anxiety also find support groups helpful. In a group of people who all have social anxiety disorder, you can receive unbiased, honest feedback about how others in the group see you. This way, you can learn that your thoughts about judgment and rejection are not true or are distorted. You can also learn how others with social anxiety disorder approach and overcome the fear of social situations.
 
-许多患有社交焦虑症的人发现支持小组也很有帮助。在一群都有社交焦虑症的人中，你会收到有关他人如何看待你的公正的，真诚的反馈。这样，你可以了解到那些你想象中的被批判和被拒绝并不是真实的。你还可以了解到其他患有社交焦虑症的人如何应对并克服对社交环境的恐惧。
+许多患有社交焦虑症的人发现支持小组也很有帮助。在一群都有社交焦虑症的人中，你会收到有关他人如何看待你的公正的，真诚的反馈。这样，你可以了解到那些你想象中的被品评和被拒绝并不是真实的。你还可以了解到其他患有社交焦虑症的人如何应对并克服对社交环境的恐惧。
 
 **Medication**
 
@@ -147,11 +147,11 @@ There are three types of medications used to help treat social anxiety disorder:
 - 抗抑郁药
 
 - Beta-blockers
-- Beta阻滞剂
+- Beta 阻滞剂
 
 Anti-anxiety medications are powerful and begin working right away to reduce anxious feelings; however, these medications are usually not taken for long periods of time. People can build up a tolerance if they are taken over a long period of time and may need higher and higher doses to get the same effect. Some people may even become dependent on them. To avoid these problems, doctors usually prescribe anti-anxiety medications for short periods, a practice that is especially helpful for older adults.
 
-抗焦虑药物功能强大，可以起到立竿见影的效果。但是，这些药物并不能长时间服用。如果长时间服用，可能会引起抗药性，并且可能会需要越来越多的剂量才能获得同样的效果，有些人甚至对抗焦虑药产生依赖。为了避免这些问题，医生通常会在短期内开出抗焦虑药物，这对于大龄人尤其有用。
+抗焦虑药物功能强大，可以起到立竿见影的效果。但是，这些药物并不能长时间服用。如果长时间服用，可能会引起抗药性，并且可能会需要越来越多的剂量才能获得同样的效果，有些人甚至对抗焦虑药产生依赖。为了避免这些问题，医生通常只会在短期内开出抗焦虑药物，这对于大龄人尤其有用。
 
 Antidepressants are mainly used to treat depression, but are also helpful for the symptoms of social anxiety disorder. In contrast to anti-anxiety medications, they may take several weeks to start working. Antidepressants may also cause side effects, such as headaches, nausea, or difficulty sleeping. These side effects are usually not severe for most people, especially if the dose starts off low and is increased slowly over time. Talk to your doctor about any side effects that you have.
 
