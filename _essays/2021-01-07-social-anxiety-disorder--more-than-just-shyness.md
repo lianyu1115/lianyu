@@ -11,9 +11,9 @@ tags: ''
 - TOC
 {:toc}
 
-# Introduction
+#### Introduction
 
-# 引言:
+#### 引言:
 
 Are you extremely afraid of being judged by others?
 
@@ -35,9 +35,9 @@ Social anxiety disorder (also called social phobia) is a mental health condition
 
 社交焦虑症（也称社交恐惧）是一种精神健康状况，是一种强烈的，长久的害怕被他人关注和批判的恐惧，这种恐惧感会影响到工作、上学以及其他的日常活动。甚至很难结交朋友。但是社会焦虑症并不一定会阻止你发挥自己的潜能。通过治疗可以帮助你应对并克服这些症状。
 
-# What is it like having social anxiety disorder?
+#### What is it like having social anxiety disorder?
 
-# 社交焦虑症患者有那些感受？ 
+#### 社交焦虑症患者有那些感受？ 
 
 “In school, I was always afraid of being called on, even when I knew the answers. I didn’t want people to think I was stupid or boring. My heart would pound and I would feel dizzy and sick. When I got a job, I hated to meet with my boss or talk in a meeting. I couldn’t attend my best friend’s wedding reception because I was afraid of having to meet new people. I tried to calm myself by drinking several glasses of wine before an event and then I started drinking every day to try to face what I had to do.”
 
@@ -47,9 +47,9 @@ Social anxiety disorder (also called social phobia) is a mental health condition
 
 “因为我厌倦了这种感觉，并且害怕丢掉搬砖的工作，我终于开始和自己的医生交谈。我开始试着接受医学治疗，与指导医生谈论应对恐惧的方法。我不再通过酒精让自己逃避恐惧。后来，我感觉我的情况开始在慢慢地改善。”
 
-# What is social anxiety disorder?
+#### What is social anxiety disorder?
 
-# 什么是社交焦虑症？
+#### 什么是社交焦虑症？
 
 Social anxiety disorder is a common type of anxiety disorder. A person with social anxiety disorder feels symptoms of anxiety or fear in certain or all social situations, such as meeting new people, dating, being on a job interview, answering a question in class, or having to talk to a cashier in a store. Doing everyday things in front of people—such as eating or drinking in front of others or using a public restroom—also causes anxiety or fear. The person is afraid that he or she will be humiliated, judged, and rejected.
 
@@ -67,9 +67,9 @@ Social anxiety disorder usually starts during youth in people who are extremely 
 
 社交焦虑症通常在那些有着极度害羞现的人的年轻的时候开始出现。社交焦虑症并不常见，研究表明，大约有7%的美国人有社交焦虑症。如果社交焦虑症不进行治疗，症状可能会持续很多年或一生，并影响一个人发挥其全部的潜能。
 
-# What are the signs and symptoms of social anxiety disorder?
+#### What are the signs and symptoms of social anxiety disorder?
 
-# 社交焦虑症有那些迹象和症状？
+#### 社交焦虑症有那些迹象和症状？
 
 When having to perform in front of or be around others, people with social anxiety disorder tend to:
 
@@ -96,17 +96,17 @@ When having to perform in front of or be around others, people with social anxie
 - Stay away from places where there are other people
 - 离群索居
 
-# What causes social anxiety disorder?
+#### What causes social anxiety disorder?
 
-# 什么导致了社交焦虑症？
+#### 什么导致了社交焦虑症？
 
 Social anxiety disorder sometimes runs in families, but no one knows for sure why some family members have it while others don’t. Researchers have found that several parts of the brain are involved in fear and anxiety. Some researchers think that misreading of others’ behavior may play a role in causing or worsening social anxiety. For example, you may think that people are staring or frowning at you when they truly are not. Underdeveloped social skills are another possible contributor to social anxiety. For example, if you have underdeveloped social skills, you may feel discouraged after talking with people and may worry about doing it in the future. By learning more about fear and anxiety in the brain, scientists may be able to create better treatments. Researchers are also looking for ways in which stress and environmental factors may play a role.
 
 社交焦虑症有时会出现家族聚集现象，但没人知道为什么有些家庭成员却没有社交焦虑症。研究人员发现，大脑中有几个部分都与恐惧和焦虑有关。一些研究人员认为，对他人行为的误解可能会导致社交焦虑甚或者加剧社交焦虑。例如，你可能认为有人在盯着你或者对你皱眉，尽管真实的情况并非如此。**缺乏社交技能也是另外一种导致社交焦虑的原因之一。**例如，如果你没有什么社交技能，在与人交谈后，你可能会感到沮丧，并担心你的这种行为的未来表现。通过对大脑中焦虑和恐惧的更多的了解，科学家也许可以发现更好的治疗方法。研究人员发现，压力和环境因素也可能是导致焦虑的原因。
 
-# How is social anxiety disorder treated?
+#### How is social anxiety disorder treated?
 
-# 如何治疗社交焦虑症？
+#### 如何治疗社交焦虑症？
 
 First, talk to your doctor or health care professional about your symptoms. Your doctor should do an exam and ask you about your health history to make sure that an unrelated physical problem is not causing your symptoms. Your doctor may refer you to a mental health specialist, such as a psychiatrist, psychologist, clinical social worker, or counselor. The first step to effective treatment is to have a diagnosis made, usually by a mental health specialist.
 
@@ -116,25 +116,25 @@ Social anxiety disorder is generally treated with psychotherapy (sometimes calle
 
 社交焦虑症通常采用的是心理疗法（有时称为“谈话”疗法），药物或者两种兼有。与你的医生或者健康顾问谈谈最适合你的治疗方法。如果你的健康顾问无法提供给你处理方案，可以访问 [NIMH](http://www.nimh.nih.gov/findhelp) 以获取可能对你有用的资源。
 
-### Psychotherapy
+##### Psychotherapy
 
-### 心理治疗
+##### 心理治疗
 
 A type of psychotherapy called cognitive behavioral therapy (CBT) is especially useful for treating social anxiety disorder. CBT teaches you different ways of thinking, behaving, and reacting to situations that help you feel less anxious and fearful. It can also help you learn and practice social skills. CBT delivered in a group format can be especially helpful. For more information on psychotherapy, please visit [www.nimh.nih.gov/health/topics/psychotherapies](http://www.nimh.nih.gov/health/topics/psychotherapies).
 
 一种称为认知行为疗法（CBT）的心理疗法对治疗社交焦虑症特别有用。CBT 可以教给你不同的思考方式，行为方式和反映方式应对社交环境，以帮你减少焦虑和恐惧，同时也可以帮你练习和实践社交技能。以小组的形式进行 CBT 治疗尤其有用。有关心理治疗的更多信息，请访问 [www.nimh.nih.gov/health/topics/psychotherapies](http://www.nimh.nih.gov/health/topics/psychotherapies)
 
-### Support Groups
+##### Support Groups
 
-### 支持小组
+##### 支持小组
 
 Many people with social anxiety also find support groups helpful. In a group of people who all have social anxiety disorder, you can receive unbiased, honest feedback about how others in the group see you. This way, you can learn that your thoughts about judgment and rejection are not true or are distorted. You can also learn how others with social anxiety disorder approach and overcome the fear of social situations.
 
 许多患有社交焦虑症的人发现支持小组也很有帮助。在一群都有社交焦虑症的人中，你会收到他人如何看待你的公正的，真诚的反馈。这样，你可以了解到那些你想象中的被批判和被拒绝并不是真实的。你还可以了解到其他患有社交焦虑症的人如何应对并克服对社交环境的恐惧。
 
-### Medication
+##### Medication
 
-### 药物
+##### 药物
 
 There are three types of medications used to help treat social anxiety disorder:
 
@@ -171,9 +171,9 @@ Don't give up on treatment too quickly. Both psychotherapy and medication can ta
 
 For basic information about these and other mental health medications, visit [www.nimh.nih.gov/health/topics/mental-health-medications](http://www.nimh.nih.gov/health/topics/mental-health-medications). Visit the Food and Drug Administration’s website ([www.fda.gov/](http://www.fda.gov/)) for the latest information on warnings, patient medication guides, or newly approved medications. 
 
-# For More Information
+#### For More Information
 
-# 更多信息
+#### 更多信息
 
 To learn more about social anxiety disorder, visit:
 
@@ -191,15 +191,15 @@ For information on clinical trials, visit:
 
 For more information on conditions that affect mental health, resources, and research, visit the NIMH website ([http://www.nimh.nih.gov](http://www.nimh.nih.gov)).
 
-# Finding Help
+#### Finding Help
 
-# 寻求帮助
+#### 寻求帮助
 
 Mental Health Treatment Program Locator
 
 The Substance Abuse and Mental Health Services Administration (SAMHSA) provides this online resource for locating mental health treatment facilities and programs. The Mental Health Treatment Locator section of the Behavioral Health Treatment Services Locator lists facilities providing mental health services to persons with mental illness. Find a facility in your state at [www.findtreatment.samhsa.gov/](https://findtreatment.samhsa.gov/). For additional resources, visit [www.nimh.nih.gov/findhelp](http://www.nimh.nih.gov/health/find-help/index.shtml).
 
-# Reprints
+#### Reprints
 
 This publication is in the public domain and may be reproduced or copied without permission from NIMH. Citation of NIMH as a source is appreciated. We encourage you to reproduce it and use it in your efforts to improve public health. However, using government materials inappropriately can raise legal or ethical concerns, so we ask you to use these guidelines:
 
@@ -214,9 +214,9 @@ This publication is in the public domain and may be reproduced or copied without
 
 If you have questions regarding these guidelines and use of NIMH publications, please contact the NIMH Information Resource Center at **1–866–615–6464** or e-mail [nimhinfo@nih.gov](mailto:nimhinfo@nih.gov).
 
-# National Institute of Mental Health
+#### National Institute of Mental Health
 
-# 国家精神卫生研究中心
+#### 国家精神卫生研究中心
 
 Office of Science Policy, Planning, and Communications
 
