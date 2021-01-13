@@ -40,12 +40,9 @@ collections:
   essays:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
-  ebooks:
-    output: true
-    permalink: /:collection/:year/:month/:day/:title/
   journals:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
-  paper-books:
+  book-notes:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
