@@ -46,3 +46,6 @@ collections:
   book-notes:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
+  tombstones:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title/

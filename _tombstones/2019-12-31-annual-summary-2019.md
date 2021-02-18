@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '我的2019年'
+title: '我的 2019 年'
 date: '2019-12-31 13:17:58 +0800'
 categories: ['Memo']
 tags: ['Memo']
@@ -8,7 +8,7 @@ tags: ['Memo']
 
 - - -
 
-[给 2019 年的我](/journals/2018/12/31/annual-summary-2018/)：
+[给 2019 年的我](/tombstones/2018/12/31/annual-summary-2018/)：
 
 - 读书
 - 健身
