@@ -6,12 +6,19 @@ title: null
 {% assign sorted_posts = site.essays | sort: 'date' | reverse %}
 
 {% for post in sorted_posts %}
-    {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
-    {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
-    {% if month != nmonth %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+    {% if year != nyear %}
+        {% capture nyear %}{{ year }}{% endcapture %}
         {% if forloop.index != 1 %}</ul>{% endif %}
-    <h4 class="category">{{ post.date | date: '%B %Y' }}</h4>
+    <h4 class="category">{{ post.date | date: '%Y' }}</h4>
     <ul class="post-list">
     {% endif %}
-    <li><span class="time">{{ post.date | date: "%B-%d" }}&nbsp;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+
+    <li>
+      <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ post.date | date: "%B-%d" }}
+      </time>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
 {% endfor %}
