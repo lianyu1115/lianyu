@@ -68,7 +68,9 @@ And last but not least, having a purpose and meaning in life is a very important
 
 The famous neurologist Dr. Victor Frankel said, "**For people who think there's nothing to live for and nothing more to expect from life, the question is getting these people to realize that life is still expecting something from them.**" 
 
-> <small>NOTE: Dr. Victor Frankel, Man's Search for Meaning | 活出生命的意义
+> <small>Further reading: [https://en.wikipedia.org/wiki/Man's_Search_for_Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
+> 
+> <small>Man's Search for Meaning is a 1946 book by Viktor Frankl chronicling his experiences as a prisoner in Nazi concentration camps during World War II, and describing his psychotherapeutic method, which involved identifying a purpose in life to feel positive about, and then immersively imagining that outcome. According to Frankl, the way a prisoner imagined the future affected his longevity.
 
 This could be volunteering, or it could be sharing this knowledge that you gained today with other people, especially those who need it most, and these are often the people who don't have money for therapy, and they're usually the ones with the highest rates of anxiety disorders. Give it to them, share with others, because it can really improve your mental health. 
 
