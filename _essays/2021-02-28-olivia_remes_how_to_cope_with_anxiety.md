@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Olivia Remes: How to cope with anxiety'
+title: 'Olivia Remes: 如何应付焦虑'
 date: '2021-02-28 07:26:28 +0800'
 categories: ''
 tags: ''
 ---
 
-Ref: [Olivia Remes: How to cope with anxiety | TED Talk](https://www.ted.com/talks/olivia_remes_how_to_cope_with_anxiety)
+Ref: [Olivia Remes: How to cope with anxiety \| TED Talk](https://www.ted.com/talks/olivia_remes_how_to_cope_with_anxiety)
 
 Imagine that you're getting ready to go to a party. You feel excited, but also nervous, and you've got this feeling in your stomach almost like another heartbeat. There's something holding you back, holding you back from getting too happy. "No, you mustn't get too happy. Better to be cautious, otherwise, something bad might happen." You start wondering, "Who should I talk to when I get there? What if no one wants to talk to me? What if they'll think I'm weird?" 
 
