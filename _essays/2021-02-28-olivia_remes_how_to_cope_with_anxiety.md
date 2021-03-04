@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '如何应付焦虑'
+title: '如何应对焦虑'
 date: '2021-02-28 07:26:28 +0800'
 categories: ''
 tags: ''
