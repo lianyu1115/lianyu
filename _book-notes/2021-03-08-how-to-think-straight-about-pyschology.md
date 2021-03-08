@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '这才是心理学：看穿伪心理学的本质'
+title: '这才是心理学'
 date: '2021-03-08 16:32:34 +0800'
 categories: ''
 tags: ''
