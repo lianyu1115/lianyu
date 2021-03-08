@@ -4,6 +4,7 @@ title: '这才是心理学'
 date: '2021-03-08 16:32:34 +0800'
 categories: ''
 tags: ''
+author: "基思·斯坦诺维奇 Keith E. Stanovich"
 ---
 
 - TOC
