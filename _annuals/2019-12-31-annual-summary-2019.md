@@ -8,7 +8,7 @@ tags: ['Memo']
 
 - - -
 
-[给 2019 年的我](/tombstones/2018/12/31/annual-summary-2018/)：
+[给 2019 年的我](/annuals/2018/12/31/annual-summary-2018/)：
 
 - 读书
 - 健身

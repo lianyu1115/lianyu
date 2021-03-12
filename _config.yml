@@ -40,12 +40,12 @@ collections:
   essays:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
-  journals:
-    output: true
-    permalink: /:collection/:year/:month/:day/:title/
   book-notes:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
   tombstones:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title/
+  annuals:
     output: true
     permalink: /:collection/:year/:month/:day/:title/

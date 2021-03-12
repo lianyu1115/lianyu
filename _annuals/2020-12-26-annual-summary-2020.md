@@ -36,7 +36,7 @@ tags: ''
 
 - - -
 
-[给2020年的我](/tombstones/2019/12/31/annual-summary-2019/)：
+[给2020年的我](/annuals/2019/12/31/annual-summary-2019/)：
 
 - 读书
 
